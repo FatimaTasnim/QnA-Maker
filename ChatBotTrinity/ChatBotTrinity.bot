@@ -1,0 +1,9 @@
+﻿{
+  "id": "3",
+  "type": "qna",
+  "name": "QnABot",
+  "version": "",
+  "kbId": "/knowledgebases/28a562bf-cf12-4764-ba96-d862ee251a65/generateAnswer",
+  "endpointKey": "c4f0ee6f-4b61-4872-b23f-3f620d0f4c86",
+  "hostname": "https://chatbot-trinity.azurewebsites.net/qnamaker"
+}
